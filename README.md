@@ -6,45 +6,9 @@ SubQuery powers the next generation of Polkadot dApps by allowing developers to 
 
 This subquery example indexes the amount transferred of each account and it is an example of a 1-many entity relationshp. In other words, one account can have many receiving addresses.
 
-# Getting Started
+# Getting Started and Result
 
-### 1. Clone the entire subql-example repository
-
-```shell
-git clone https://github.com/subquery/tutorials-account-transfers.git
-
-```
-
-### 2. Install dependencies
-
-```shell
-cd <folder>
-yarn
-```
-
-### 3. Generate types
-
-```shell
-yarn codegen
-```
-
-### 4. Build the project
-
-```shell
-yarn build
-```
-
-### 5. Start Docker
-
-```shell
-docker-compose pull & docker-compose up
-```
-
-### 6. Run locally
-
-Open http://localhost:3000/ on your browser
-
-### 7. Example query to run
+### 1. Example query to run
 
 ```shell
 query{
@@ -60,4 +24,5 @@ query{
     }
   }
 ```
-
+### 2. Result
+![MarineGEO circle logo](src\Capture.PNG "MarineGEO logo")
