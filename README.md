@@ -25,4 +25,4 @@ query{
   }
 ```
 ### 2. Result
-![Result](src\Capture.PNG)
+![Result](src/Capture.PNG)
