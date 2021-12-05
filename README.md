@@ -25,4 +25,4 @@ query{
   }
 ```
 ### 2. Result
-![MarineGEO circle logo](src\Capture.PNG "MarineGEO logo")
+![Result](src\Capture.PNG)
